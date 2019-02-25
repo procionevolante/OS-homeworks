@@ -1,0 +1,2 @@
+generation_threads_tree_number: generation_threads_tree_number.c
+	gcc -Wall -lpthread generation_threads_tree_number.c -o generation_threads_tree_number

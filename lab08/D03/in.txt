@@ -1,0 +1,8 @@
+Product	Quantity
+Books	3
+Pens	10
+Pencil	4
+Books	2
+Pens	20
+Pencil	3
+Books	8
